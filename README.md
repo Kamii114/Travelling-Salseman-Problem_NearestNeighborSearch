@@ -1,0 +1,2 @@
+# Travelling Salseman Problem_NearestNeighborSearch
+ This repository explores two optimization algorithms: the Traveling Salesman Problem (TSP) and Nearest Neighbor Search (NNS). It features Jupyter notebooks implementing brute-force solutions to both problems, utilizing Euclidean distance calculations and path visualizations. Ideal for learning about algorithm efficiency and optimization techniques.
