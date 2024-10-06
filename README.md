@@ -47,9 +47,3 @@ This repository includes two notebooks that implement both algorithms using brut
 ## Execution and Visualization
 
 The notebooks include built-in timers to measure execution time and optional visualizations of the paths using the `igraph` library. These visual representations provide an intuitive understanding of the solutions.
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/repository_name.git
